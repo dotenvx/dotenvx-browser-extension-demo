@@ -18,11 +18,15 @@
 8. Click `decrypt` at top-right again.
 9. Your values will be successfully decrypted.
 
+![](https://github.com/user-attachments/assets/552b726f-10b1-4f55-a693-7d7dd573ff8d)
+
 ### Error Path
 
 Do much of the same above, but enter in an invalid private decryption key like `3e0d01c979869f5fe178616d265c902cb1ac47cc85fdb9942c04b0e26cc4269d`.
 
 Attempt to click `decrypt` and you will be presented with a decryption related error.
+
+![](https://github.com/user-attachments/assets/7093cc03-a04a-47ba-b936-288edccad7b8)
 
 ---
 
