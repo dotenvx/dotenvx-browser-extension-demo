@@ -28,6 +28,10 @@ Attempt to click `decrypt` and you will be presented with a decryption related e
 
 ![](https://github.com/user-attachments/assets/7093cc03-a04a-47ba-b936-288edccad7b8)
 
+## TODO
+
+* Support PR view
+
 ---
 
 Thank you for testing our chrome extension. 🙏
